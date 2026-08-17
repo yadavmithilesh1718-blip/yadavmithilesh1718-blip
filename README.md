@@ -1,76 +1,297 @@
-# Hi, I'm Mithilesh Yadav 👋
+# 🟢 MR_MITHFORGE.exe
 
-🎓 Computer Science Student | 💻 Python Developer | 🚀 Exploring AI & Web Development
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=28&duration=3000&pause=1000&color=7CFF00&center=true&vCenter=true&width=700&lines=MR_MITHFORGE.exe;SYSTEM+STATUS+%3A+ONLINE;COMPUTER+SCIENCE+STUDENT;DEVELOPER+%7C+BUILDER;SYSTEM+READY_">
 
-## About Me
+<br>
 
-I'm a Computer Science student passionate about software development and problem solving.
+### `Computer Science Student • Developer • Builder`
 
-I enjoy building practical projects using Python, Flask, SQL, and web technologies.
+<a href="https://github.com/yadavmithilesh1718-blip">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=7CFF00">
+</a>
 
-Currently, I'm learning Git, GitHub, AI, and Machine Learning.
+<a href="https://www.linkedin.com/in/mithilesh-yadav-910155328/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=7CFF00">
+</a>
 
+</div>
 
-## 🛠️ Skills
+---
 
-- **Languages:** Python, Java, SQL
-- **Web:** HTML, CSS, JavaScript, Flask
-- **Database:** SQLite, MongoDB
-- **Tools:** Git, GitHub, VS Code
-- **Currently Learning:** AI & Machine Learning
+## 👨‍💻 About Me
 
+Hi! I'm **Mithilesh**, a Computer Science student who enjoys building software, learning new technologies, solving problems, and turning ideas into real-world projects.
 
- ## 🚀 Projects
+I learn best by **building things**, experimenting with ideas, and improving through practice.
 
-### MediBridge
+### 🚀 Areas I Enjoy
 
-**AI Powered Medicine Donation & Redistribution Platform**
+- 🐍 Python Development
+- 🌐 Web Development
+- 📊 Data Analysis
+- 🤖 AI & Machine Learning
+- 🗄️ Databases
+- 💻 Software Development
+- 🧠 Problem Solving
+- 🚀 Real-World Projects
 
-A web-based project focused on reducing medicine wastage through a digital medicine donation and redistribution platform.
+---
 
-**Tech Stack:** Python • Flask • SQLite • HTML • CSS • JavaScript
+## ⚡ Tech Stack
 
-### Grocery Billing System
+### 💻 Languages
 
-**JavaFX-based desktop application for managing grocery billing and sales.**
+<p align="left">
 
-A desktop application designed to simplify grocery billing and provide a user-friendly interface for managing billing operations.
+<img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=7CFF00">
 
-**Tech Stack:** Java • JavaFX • FXML • CSS
+<img src="https://img.shields.io/badge/Java-050505?style=for-the-badge&logo=openjdk&logoColor=7CFF00">
 
-## 📚 Currently Learning
+<img src="https://img.shields.io/badge/SQL-050505?style=for-the-badge&logo=sqlite&logoColor=7CFF00">
 
-- Python & Flask
-- Git & GitHub
-- SQL & Databases
-- AI & Machine Learning
-- Software Development
+</p>
 
-## 🎯 Goals
+### 🌐 Web Development
 
-- Build practical and meaningful software projects
-- Improve my problem-solving and programming skills
-- Learn AI and Machine Learning
-- Contribute to open-source projects
-- Grow as a software developer
+<p align="left">
 
-## 📫 Connect With Me
+<img src="https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5&logoColor=7CFF00">
 
-- GitHub: [@yadavmithilesh1718-blip](https://github.com/yadavmithilesh1718-blip)
-- LinkedIn: [Mithilesh Yadav](https://www.linkedin.com/in/mithilesh-yadav-910155328/)
-- Email: yadavmithilesh1718@gmail.com
-<!--
-**yadavmithilesh1718-blip/yadavmithilesh1718-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3&logoColor=7CFF00">
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=7CFF00">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/Flask-050505?style=for-the-badge&logo=flask&logoColor=7CFF00">
+
+</p>
+
+### 🗄️ Database
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/SQLite-050505?style=for-the-badge&logo=sqlite&logoColor=7CFF00">
+
+<img src="https://img.shields.io/badge/MongoDB-050505?style=for-the-badge&logo=mongodb&logoColor=7CFF00">
+
+</p>
+
+### 🛠️ Tools
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=7CFF00">
+
+<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=7CFF00">
+
+<img src="https://img.shields.io/badge/VS_Code-050505?style=for-the-badge&logo=visual-studio-code&logoColor=7CFF00">
+
+<img src="https://img.shields.io/badge/Maven-050505?style=for-the-badge&logo=apachemaven&logoColor=7CFF00">
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 💊 MediBridge
+
+### AI Powered Medicine Donation & Redistribution Platform
+
+> **Don't Waste Medicines, Save Lives.**
+
+MediBridge is a Flask-based platform focused on medicine donation and redistribution while helping reduce medicine waste.
+
+### ✨ Features
+
+- 📷 Medicine image upload
+- 💊 Medicine information management
+- 📅 Expiry-date tracking
+- 📦 Quantity management
+- 🔐 Medicine condition checking
+- 🗄️ SQLite database
+- 🌐 Flask backend
+- 🎨 Responsive web interface
+- 🤖 AI/OCR based future enhancements
+
+### 🧰 Technologies
+
+`Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript` `OCR` `AI/ML`
+
+### 🔗 Repository
+
+👉 **[MediBridge](https://github.com/yadavmithilesh1718-blip/MediBridge)**
+
+---
+
+## 🛒 Grocery Billing System
+
+A desktop billing application built using **JavaFX and Maven**.
+
+### ✨ Highlights
+
+- 🧾 Billing workflow
+- 🛍️ Grocery product management
+- 💰 Bill calculation
+- 🖥️ Desktop GUI
+- 📦 Maven project structure
+
+### 🧰 Technologies
+
+`Java` `JavaFX` `Maven`
+
+### 🔗 Repository
+
+👉 **[Grocery Billing System](https://github.com/yadavmithilesh1718-blip/Grocery-Billing-System)**
+
+---
+
+## 📊 Amazon Sales Analysis
+
+A Python-based data analysis project focused on exploring sales data and extracting useful insights.
+
+### 🔍 Focus Areas
+
+- Data Cleaning
+- Data Exploration
+- Sales Trends
+- Pattern Analysis
+- Business Insights
+- Visualization
+
+### 🧰 Technologies
+
+`Python` `Pandas` `Data Analysis`
+
+🚧 **Project under development**
+
+---
+
+# 🧠 Currently Learning
+
+| Technology / Area | Focus |
+|---|---|
+| 🐍 Python | Development & Problem Solving |
+| 📊 Data Analysis | Pandas & Data Exploration |
+| 🌐 Flask | Web Applications |
+| 🤖 AI / ML | AI-powered Applications |
+| 🧠 DSA | Algorithms & Problem Solving |
+| 🗄️ SQL | Database & Queries |
+
+---
+
+# 🎯 Current Focus
+
+```text
+> Build better projects
+> Improve Python skills
+> Practice Data Structures & Algorithms
+> Learn Data Analysis
+> Explore AI-powered applications
+> Improve Web Development
+> Contribute to GitHub
+> Keep learning every day
+
+```
+
+---
+
+# 🖥️ Developer Terminal
+
+```text
+┌──────────────────────────────────────────────┐
+│              MR_MITHFORGE.exe                │
+├──────────────────────────────────────────────┤
+│                                              │
+│  mith@forge:~$ whoami                        │
+│  computer_science_student                    │
+│                                              │
+│  mith@forge:~$ skills                        │
+│  Python · SQL · Flask · Web · Git            │
+│                                              │
+│  mith@forge:~$ status                        │
+│  BUILDING...                                 │
+│                                              │
+│  mith@forge:~$ motivation                    │
+│  Learn → Build → Break → Fix → Repeat        │
+│                                              │
+│  mith@forge:~$                               │
+│  █                                           │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/yadavmithilesh1718-blip">
+<img src="https://github-readme-stats.vercel.app/api?username=yadavmithilesh1718-blip&show_icons=true&theme=dark&hide_border=true&title_color=7CFF00&icon_color=7CFF00&text_color=AAAAAA&bg_color=050505" width="49%">
+</a>
+
+<a href="https://github.com/yadavmithilesh1718-blip">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavmithilesh1718-blip&layout=compact&theme=dark&hide_border=true&title_color=7CFF00&text_color=AAAAAA&bg_color=050505" width="41%">
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yadavmithilesh1718-blip/yadavmithilesh1718-blip/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/yadavmithilesh1718-blip">
+<img src="https://img.shields.io/badge/GitHub-yadavmithilesh1718--blip-050505?style=for-the-badge&logo=github&logoColor=7CFF00">
+</a>
+
+<a href="https://www.linkedin.com/in/mithilesh-yadav-910155328/">
+<img src="https://img.shields.io/badge/LinkedIn-Mithilesh%20Yadav-050505?style=for-the-badge&logo=linkedin&logoColor=7CFF00">
+</a>
+
+</div>
+
+---
+
+# ⚡ Developer Philosophy
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│  "Don't just learn technology.               │
+│   Build something with it."                  │
+│                                              │
+│  Curiosity  →  Learning                     │
+│  Learning   →  Building                     │
+│  Building   →  Experience                   │
+│  Experience →  Growth                        │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+### `> SYSTEM STATUS : ONLINE`
+
+### `> KEEP BUILDING. KEEP LEARNING. 🚀`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7CFF00&height=100&section=footer&fontColor=050505">
+
+</div>
