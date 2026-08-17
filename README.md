@@ -295,3 +295,8 @@ A Python-based data analysis project focused on exploring sales data and extract
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7CFF00&height=100&section=footer&fontColor=050505">
 
 </div>
+
+
+## 🐍 Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/yadavmithilesh1718-blip/yadavmithilesh1718-blip/output/github-contribution-grid-snake.svg)
